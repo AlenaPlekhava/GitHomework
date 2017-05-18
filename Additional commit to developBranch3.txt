@@ -1,1 +1,5 @@
-Additional commit to developBranch3 Master123
+<<<<<<< HEAD
+Additional commit to developBranch3 Develop
+=======
+Additional commit to developBranch3 Develop
+>>>>>>> develop
